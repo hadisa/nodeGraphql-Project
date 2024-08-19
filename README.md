@@ -28,5 +28,12 @@ Make sure you have the following installed on your local development environment
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/graphql-express-server.git
+   git clone https://github.com/hadisa/nodeGraphql-Project
    cd graphql-express-server
+
+ 2. for running  the project
+
+ ```
+ npm install
+ npm run dev
+ ```
